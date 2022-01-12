@@ -3,11 +3,11 @@
 
 ## I'm a Student and Software Developer!
 
-- 🔭 I just started my first temporary Software Engineering job as a Web Developer for Vinnies WA
-- 🌱 I’m currently learning more Web Development and Machine Learning
+- 🔭 I just started my first temporary Software Engineering job as a Web Developer for [Vinnies WA][vinniessite]
+- 🖨️ I am currently volunteering for [Coders For Causes UWA][cfcsite], and am the Executive Director of Trading at [QFin UWA][qfinlinkedin] in 2022
 - 📚 I will be starting my Honours in Computer Science and Software Engineering in Semester 2, 2022
-- 👯 I’m looking to collaborate with other new developers to create cool projects
-- 🥅 2022 Goals: Contribute more to Open Source projects, Make [QFin][qfinsite] the best UWA club that it can be!
+- 🌱 I’m currently learning Full Stack Web Development and creating my [portfolio website][website]
+- 🥅 Goals for 2022: Contribute more to Open Source projects, Make [QFin][qfinsite] the best UWA club that it can be!
 - ⚡ Fun fact: I love to build keyboards and computers!
 
 ---
@@ -52,3 +52,6 @@
 [website]: https://jakel1001.github.io/Portfolio-Website/
 [linkedin]: https://www.linkedin.com/in/jake-lyell-8a44b4180/
 [qfinsite]: https://github.com/QFinUWA
+[qfinlinkedin]: https://www.linkedin.com/company/qfin-uwa/
+[cfcsite]: https://www.codersforcauses.org/
+[vinniessite]: https://www.vinnieswa.org.au/
