@@ -41,6 +41,9 @@
 
 ---
 
+  <img align="left" alt="JakeL1001's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JakeL1001&show_icons=true&hide_border=true" />
+
+
 [website]: https://jakel1001.github.io/Portfolio-Website/
 [linkedin]: https://www.linkedin.com/in/jake-lyell-8a44b4180/
 [qfinsite]: https://github.com/QFinUWA
