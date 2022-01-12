@@ -5,6 +5,7 @@
 
 - 🔭 I just started my first temporary Software Engineering job as a Web Developer for Vinnies WA
 - 🌱 I’m currently learning more Web Development and Machine Learning
+- 📚 I will be starting my Honours in Computer Science and Software Engineering in Semester 2, 2022
 - 👯 I’m looking to collaborate with other new developers to create cool projects
 - 🥅 2022 Goals: Contribute more to Open Source projects, Make [QFin][qfinsite] the best UWA club that it can be!
 - ⚡ Fun fact: I love to build keyboards and computers!
