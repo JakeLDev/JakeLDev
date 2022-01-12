@@ -41,8 +41,12 @@
 
 ---
 
-  <img align="left" alt="JakeL1001's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JakeL1001&show_icons=true&hide_border=true" />
-
+<a href="https://github-readme-stats.vercel.app/api?username=JakeL1001&hide=stars&count_private=true&show_icons=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeL1001&hide=stars&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeL1001&layout=compact&theme=tokyonight&hide=c%2B%2B,C,COBOL,cmake. D">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeL1001&layout=compact&theme=tokyonight&hide=c%2B%2B,C,COBOL,cmake, D" />
+</a> -->
 
 [website]: https://jakel1001.github.io/Portfolio-Website/
 [linkedin]: https://www.linkedin.com/in/jake-lyell-8a44b4180/
