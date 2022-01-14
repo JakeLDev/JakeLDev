@@ -1,4 +1,4 @@
-### Hey! I'm Jake - aka [JakeL1001][website] 👋 
+### Hey! I'm Jake - aka [JakeLDev][website] 👋 
 
 
 ## I'm a Student and Software Developer!
@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Jake Lyell | Website" width="22px" src="https://img.icons8.com/color/48/000000/globe--v1.png" />][website]
-[<img align="left" alt="Jake Lyell | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" />][linkedin]
-[<img align="left" alt="Jake Lyell | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" />][twitter]
-[<img align="left" alt="Jake Lyell | GitHub" width="22px" src="https://img.icons8.com/stickers/100/000000/github.png" />][github]
+[<img align="left" alt="Jake Lyell | Website" width="26px" src="https://img.icons8.com/color/48/000000/globe--v1.png" />][website]
+[<img align="left" alt="Jake Lyell | LinkedIn" width="26px" src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" />][linkedin]
+[<img align="left" alt="Jake Lyell | Twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" />][twitter]
+[<img align="left" alt="Jake Lyell | GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png" />][github]
 
 <br />
 
@@ -33,7 +33,6 @@
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -43,12 +42,9 @@
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=JakeL1001&hide=stars&count_private=true&show_icons=true&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeL1001&hide=stars&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeL1001&layout=compact&theme=tokyonight&hide=c%2B%2B,C,COBOL,cmake. D">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeL1001&layout=compact&theme=tokyonight&hide=c%2B%2B,C,COBOL,cmake, D" />
-</a> -->
 
 [website]: https://jakel1001.github.io/Portfolio-Website/
 [linkedin]: https://www.linkedin.com/in/jake-lyell-8a44b4180/
