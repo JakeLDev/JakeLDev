@@ -46,7 +46,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
-[website]: https://jakel1001.github.io/Portfolio-Website/
+[website]: https://jakelyell.dev
 [linkedin]: https://www.linkedin.com/in/jake-lyell-8a44b4180/
 [qfinsite]: https://github.com/QFinUWA
 [qfinlinkedin]: https://www.linkedin.com/company/qfin-uwa/
