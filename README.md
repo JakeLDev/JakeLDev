@@ -57,4 +57,4 @@
 [cfcsite]: https://www.codersforcauses.org/
 [vinniessite]: https://www.vinnieswa.org.au/
 [twitter]: https://twitter.com/JakeLDev
-[github]: https://github.com/JakeL1001
+[github]: https://github.com/JakeLDev
