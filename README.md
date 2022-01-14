@@ -22,8 +22,6 @@
 <a href="https://twitter.com/JakeLDev"><img alt="Jake Lyell | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a> &nbsp;
 <a href="mailto:me@jakelyell.dev"><img alt="Jake Lyell | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-<br />
-
 ### Languages and Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
