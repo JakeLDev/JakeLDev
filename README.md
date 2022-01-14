@@ -14,12 +14,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://jakel1001.github.io/Portfolio-Website/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Jake Lyell | Website" width="22px" src="https://img.icons8.com/color/48/000000/globe--v1.png" />][website]
+[<img align="left" alt="Jake Lyell | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" />][linkedin]
+[<img align="left" alt="Jake Lyell | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" />][twitter]
+[<img align="left" alt="Jake Lyell | GitHub" width="22px" src="https://img.icons8.com/stickers/100/000000/github.png" />][github]
 
 <br />
-
 
 ### Languages and Tools:
 
@@ -56,3 +56,5 @@
 [qfinlinkedin]: https://www.linkedin.com/company/qfin-uwa/
 [cfcsite]: https://www.codersforcauses.org/
 [vinniessite]: https://www.vinnieswa.org.au/
+[twitter]: https://twitter.com/JakeLDev
+[github]: https://github.com/JakeL1001
