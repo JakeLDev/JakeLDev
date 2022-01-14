@@ -16,10 +16,10 @@
 ---
 
 ### Connect with me:
-<a href="https://jakelyell.dev"><img alt="Jake Lyell | Website" src="https://img.shields.io/badge/Website%20-%212823a.svg?&style=flat&logo=react&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/jake-lyell-8a44b4180/"><img alt="Jake Lyell | LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://twitter.com/JakeLDev"><img alt="Jake Lyell | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a> &nbsp;
-<a href="mailto:me@jakelyell.dev"><img alt="Jake Lyell | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://jakelyell.dev" target="_blank"><img alt="Jake Lyell | Website" src="https://img.shields.io/badge/Website%20-%212823a.svg?&style=flat&logo=react&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/jake-lyell-8a44b4180/" target="_blank"><img alt="Jake Lyell | LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/JakeLDev" target="_blank"><img alt="Jake Lyell | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a> &nbsp;
+<a href="mailto:me@jakelyell.dev" target="_blank"><img alt="Jake Lyell | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ### Languages and Tools:
 
@@ -43,7 +43,7 @@
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
