@@ -1,5 +1,4 @@
-### Hey! I'm Jake - aka [JakeLDev][website] 👋 
-<br />
+# Hey! I'm Jake - aka [JakeLDev][website] 👋 
 
 ![version :20.08.2021](https://img.shields.io/badge/version-15.01.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=JakeLDev&color=red)&nbsp;
