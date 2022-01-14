@@ -1,7 +1,11 @@
 ### Hey! I'm Jake - aka [JakeLDev][website] 👋 
+<br />
 
-
-## I'm a Student and Software Developer!
+![version :20.08.2021](https://img.shields.io/badge/version-15.01.2022-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=JakeLDev&color=red)&nbsp;
+[![GitHub JakeLDev](https://img.shields.io/github/followers/JakeLDev?label=follow&style=social)](https://github.com/JakeLDev)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+## I'm a Student and Software Developer! 👨🏻‍💻
 
 - 🔭 I just started my first temporary Software Engineering job as a Web Developer for [Vinnies WA][vinniessite]
 - 🖨️ I am currently volunteering for [Coders For Causes UWA][cfcsite], and am the Executive Director of Trading at [QFin UWA][qfinlinkedin] in 2022
@@ -13,32 +17,32 @@
 ---
 
 ### Connect with me:
-
-[<img align="left" alt="Jake Lyell | Website" width="26px" src="https://img.icons8.com/color/48/000000/globe--v1.png" />][website]
-[<img align="left" alt="Jake Lyell | LinkedIn" width="26px" src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" />][linkedin]
-[<img align="left" alt="Jake Lyell | Twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" />][twitter]
-[<img align="left" alt="Jake Lyell | GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png" />][github]
+<a href="https://jakelyell.dev"><img alt="Jake Lyell | Website" src="https://img.shields.io/badge/Website%20-%212823a.svg?&style=flat&logo=react&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/jake-lyell-8a44b4180/"><img alt="Jake Lyell | LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/JakeLDev"><img alt="Jake Lyell | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a> &nbsp;
+<a href="mailto:me@jakelyell.dev"><img alt="Jake Lyell | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg"/>
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 
 ---
 
