@@ -45,7 +45,12 @@
 
 <a href="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JakeLDev&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </a>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JakeLDev&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+
+
 
 [website]: https://jakelyell.dev
 [linkedin]: https://www.linkedin.com/in/jake-lyell-8a44b4180/
