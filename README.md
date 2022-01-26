@@ -92,7 +92,7 @@
 
 
 [website]: https://jakelyell.dev
-[linkedin]: https://www.linkedin.com/in/jake-lyell-8a44b4180/
+[linkedin]: https://www.linkedin.com/in/jake-lyell/
 [qfinsite]: https://github.com/QFinUWA
 [qfinlinkedin]: https://www.linkedin.com/company/qfin-uwa/
 [cfcsite]: https://www.codersforcauses.org/
