@@ -11,6 +11,7 @@
 - 📚 I will be starting my Honours in Computer Science and Software Engineering in Semester 2, 2022
 - 🌱 I’m currently learning Full Stack Web Development and creating my [portfolio website][website]
 - 🥅 Goals for 2022: Contribute more to Open Source projects, Make [QFin][qfinsite] the best UWA club that it can be!
+- 🥇 Competing in Google HashCode, UWA CTF 2022 by UWA Information Security Society and Ready Trader Go by Optiver this year!
 - ⚡ Fun fact: I love to build keyboards and computers!
 
 ---
