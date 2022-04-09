@@ -73,21 +73,20 @@
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight" />
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=JakeLDev&count_private=true&show_icons=true&theme=tokyonight" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeLDev&count_private=true&show_icons=true&theme=material-palenight" width=400/>
 </a>
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=JakeLDev&hide=stars&count_private=true&show_icons=true&theme=tokyonight">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JakeLDev&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
-</a> -->
-
+<a href="https://github-readme-stats.vercel.app/api?username=JakeLDevs&count_private=true&show_icons=true&theme=tokyonight">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=JakeLDev&theme=material-palenight&date_format=j%20M%5B%20Y%5D" width=400/>
+</a>
+</p>
 <details>
   <summary>My Recent GitHub activity</summary>
 
   [![Jake's github activity graph](https://activity-graph.herokuapp.com/graph?username=JakeLDev&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </details>
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JakeLDev&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
 
 
