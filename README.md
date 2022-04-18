@@ -8,7 +8,7 @@
 
 - 🔭 I just started my first temporary Software Engineering job as a Web Developer for [Vinnies WA][vinniessite]
 - 🖨️ I am currently volunteering for [Coders For Causes UWA][cfcsite], and am the Executive Director of Trading at [QFin UWA][qfinlinkedin] in 2022
-- 📚 I will be starting my Honours in Computer Science and Software Engineering in Semester 2, 2022
+- 📚 I am graduating with my Undergraduate in Computer Science and Data Science in June 2022
 - 🌱 I’m currently learning Full Stack Web Development and creating my [portfolio website][website]
 - 🥅 Goals for 2022: Contribute more to Open Source projects, Make [QFin][qfinsite] the best UWA club that it can be!
 - ⚡ Fun fact: I love to build keyboards and computers!
