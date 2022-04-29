@@ -7,6 +7,7 @@
 ## I'm a Student and Software Developer! 👨🏻‍💻
 
 - 🔭 I just started my first temporary Software Engineering job as a Web Developer for [Vinnies WA][vinniessite]
+- 🏆 I have just accepted an offer for a Graduate Software Engineering position at [Atlassian][atlassian] to start in Jan 2023!
 - 🖨️ I am currently volunteering for [Coders For Causes UWA][cfcsite], and am the Executive Director of Trading at [QFin UWA][qfinlinkedin] in 2022
 - 📚 I am graduating with my Undergraduate in Computer Science and Data Science in June 2022
 - 🌱 I’m currently learning Full Stack Web Development and creating my [portfolio website][website]
@@ -98,6 +99,7 @@
 [vinniessite]: https://www.vinnieswa.org.au/
 [twitter]: https://twitter.com/JakeLDev
 [github]: https://github.com/JakeLDev
+[atlassian]: https://www.atlassian.com/
 
 [HashCode]: https://codingcompetitions.withgoogle.com/hashcode/about
 [UWACTF]: https://ctf.uwahackers.com/
