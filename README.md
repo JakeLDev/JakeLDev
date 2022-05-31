@@ -4,7 +4,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=JakeLDev&color=red)&nbsp;
 [![GitHub JakeLDev](https://img.shields.io/github/followers/JakeLDev?label=follow&style=social)](https://github.com/JakeLDev)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-## I'm a Student and Software Developer! 👨🏻‍💻
+## I'm a Student and Software Engineer! 👨🏻‍💻
 
 - 🔭 I just started my first temporary Software Engineering job as a Web Developer for [Vinnies WA][vinniessite]
 - 🏆 I have just accepted an offer for a Graduate Software Engineering position at [Atlassian][atlassian] to start in Jan 2023!
