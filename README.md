@@ -1,6 +1,6 @@
 # Hey! I'm Jake - aka [JakeLDev][website] 👋 
 
-![version :01.05.2022](https://img.shields.io/badge/version-01.05.2022-informational) &nbsp;
+![version :04.06.2022](https://img.shields.io/badge/version-04.06.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=JakeLDev&color=red)&nbsp;
 [![GitHub JakeLDev](https://img.shields.io/github/followers/JakeLDev?label=follow&style=social)](https://github.com/JakeLDev)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
