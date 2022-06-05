@@ -8,8 +8,8 @@
 
 - 🔭 I just started my first temporary Software Engineering job as a Web Developer for [Vinnies WA][vinniessite]
 - 🏆 I have just accepted an offer for a Graduate Software Engineering position at [Atlassian][atlassian] to start in Jan 2023!
-- 🖨️ I am currently volunteering for [Coders For Causes UWA][cfcsite], and am the Executive Director of Trading at [QFin UWA][qfinlinkedin] in 2022
-- 📚 I am graduating with my Undergraduate in Computer Science and Data Science in June 2022
+- 🖨️ I volunteered for [Coders For Causes UWA][cfcsite] over summer, and I am the Executive Director of Trading at [QFin UWA][qfinlinkedin] for 2022
+- 📚 I am graduating with my Undergraduate in Computer Science and Data Science in July 2022
 - 🌱 I’m currently learning Full Stack Web Development and creating my [portfolio website][website]
 - 🥅 Goals for 2022: Contribute more to Open Source projects, Make [QFin][qfinsite] the best UWA club that it can be!
 - ⚡ Fun fact: I love to build keyboards and computers!
