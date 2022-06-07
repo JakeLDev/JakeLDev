@@ -10,7 +10,7 @@
 - 📚 I am graduating with my Undergraduate in Computer Science and Data Science in July 2022
 - 🌱 I’m currently learning Full Stack Web Development and creating my [portfolio website][website]
 - 🥅 Goals for 2022: Contribute more to Open Source projects, Make [QFin][qfinsite] the best UWA club that it can be!
-- ⚡ Fun fact: I love to build keyboards and computers!
+- ⚡ Fun fact: I love to build Keyboards and Computers!
 
 ---
 
