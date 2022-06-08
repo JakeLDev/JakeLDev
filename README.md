@@ -98,7 +98,3 @@
 [twitter]: https://twitter.com/JakeLDev
 [github]: https://github.com/JakeLDev
 [atlassian]: https://www.atlassian.com/
-
-[HashCode]: https://codingcompetitions.withgoogle.com/hashcode/about
-[UWACTF]: https://ctf.uwahackers.com/
-[ReadyTraderGo]: https://readytradergo.optiver.com/
