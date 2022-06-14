@@ -4,8 +4,8 @@
 
 ## I'm a Student and Software Engineer! 👨🏻‍💻
 
-- 🔭 I started my first temporary Software Engineering job as a Web Developer for [Vinnies WA][vinniessite]
-- 🏆 I have just accepted an offer for a Graduate Software Engineering position at [Atlassian][atlassian] to start in Jan 2023!
+- 🔭 I completed my first temporary Software Engineering job as a Web Developer for [Vinnies WA][vinniessite]
+- 🏆 I have accepted an offer for a Graduate Software Engineering position at [Atlassian][atlassian] to start in Jan 2023!
 - 🖨️ I volunteered for [Coders For Causes UWA][cfcsite] over summer, and I am the Executive Director of Trading at [QFin UWA][qfinlinkedin] for 2022
 - 📚 I am graduating with my Undergraduate in Computer Science and Data Science in July 2022
 - 🌱 I’m currently learning Full Stack Web Development and creating my [portfolio website][website]
