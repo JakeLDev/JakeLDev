@@ -86,7 +86,6 @@
 </details>
 
 
-
 [website]: https://jakelyell.dev
 [linkedin]: https://www.linkedin.com/in/jake-lyell/
 [qfinsite]: https://github.com/QFinUWA
