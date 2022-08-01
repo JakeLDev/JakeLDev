@@ -1,6 +1,6 @@
 # Hey! I'm Jake - aka [JakeLDev][website] 👋 
 
-![version :25.06.2022](https://img.shields.io/badge/version-25.06.2022-informational) &nbsp;
+![version :01.08.2022](https://img.shields.io/badge/version-01.08.2022-informational) &nbsp;
 
 ## I'm a Student and Software Engineer! 👨🏻‍💻
 
