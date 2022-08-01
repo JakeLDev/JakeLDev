@@ -2,12 +2,12 @@
 
 ![version :01.08.2022](https://img.shields.io/badge/version-01.08.2022-informational) &nbsp;
 
-## I'm a Student and Software Engineer! 👨🏻‍💻
+## I'm a Software Engineer! 👨🏻‍💻
 
 - 🔭 I completed my first temporary Software Engineering job as a Web Developer for [Vinnies WA][vinniessite]
 - 🏆 I have accepted an offer for a Graduate Software Engineering position at [Atlassian][atlassian] to start in Jan 2023!
 - 🖨️ I volunteered for [Coders For Causes UWA][cfcsite] over summer, and I am the Executive Director of Trading at [QFin UWA][qfinlinkedin] for 2022
-- 📚 I am graduating with my Undergraduate in Computer Science and Data Science in July 2022
+- 📚 I graduated with my Bachelor's Degree in Computer Science and Data Science in July 2022
 - 🌱 I’m currently learning Full Stack Web Development and creating my [portfolio website][website]
 - 🥅 Goals for 2022: Contribute more to Open Source projects, Keep atleast a commit per day streak!
 - ⚡ Fun fact: I love to build Keyboards and Computers!
