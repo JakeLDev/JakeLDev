@@ -4,7 +4,6 @@
 
 - 🔭 I'm a Software Engineer at Atlassian! I work on the Confluence Data Center Team, developing customer facing features
 - 📚 I graduated with my Bachelor's Degree in Computer Science and Data Science in July 2022
-- ⚡ Fun fact: I love to build Keyboards and Computers!
 - 🛠️ Primarily using Bitbucket for work, so there aren't many commits on my GitHub at the moment
 ---
 
